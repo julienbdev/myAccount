@@ -1,3 +1,3 @@
 -----------------
-myAccount Project
+myMoney Project
 -----------------
